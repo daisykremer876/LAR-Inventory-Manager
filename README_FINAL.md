@@ -6,7 +6,7 @@ Developed by **Daisy Kremer** and **Gabrielle Numa**, the system is rooted in th
 
 ---
 
-## 📝 Related Article
+## Related Article
 
 📄 **LAR_Digital_Article_Final_Export.pdf**
 
@@ -16,7 +16,7 @@ This article explains the context, methodology, and impact of the system.
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `main.c` — Source code for the inventory system
 - `customers.txt` — File to store customer records
@@ -29,18 +29,18 @@ This article explains the context, methodology, and impact of the system.
 
 ---
 
-## 🖥️ How to Run
+## How to Run
 
 1. Place all `.txt` files in the same folder as the `.exe` file.
 2. Double-click the `.exe` file to launch the program.
 3. Use the keyboard to follow the menu options.
 4. Select option `7` to exit the program.
 
-> ⚠️ No compilation or coding experience is required. The program is designed to be used by non-technical staff.
+> No compilation or coding experience is required. The program is designed to be used by non-technical staff.
 
 ---
 
-## ✅ Features
+## Features
 
 - Add and retrieve customer records
 - Add and manage product inventory
@@ -51,13 +51,13 @@ This article explains the context, methodology, and impact of the system.
 
 ---
 
-## 👩🏽‍💻 Authors
+## Authors
 
 - Daisy Kremer
 - Gabrielle Numa
 
 ---
 
-## 📜 License
+## License
 
 This project is released for educational and non-commercial purposes only.
